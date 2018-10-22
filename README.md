@@ -10,4 +10,4 @@ In your terminal, `git clone https://github.com/gamefreak2993/weather.git` in yo
 
 `node app.js --help` will list all the commands available.
 ## License
-Notes is Copyright &copy; 2018 Mihai Vărșăndan. View terms in the [**LICENSE**](https://github.com/gamefreak2993/weather/blob/master/LICENSE.txt) file.
+Weather is Copyright &copy; 2018 Mihai Vărșăndan. View terms in the [**LICENSE**](https://github.com/gamefreak2993/weather/blob/master/LICENSE.txt) file.
